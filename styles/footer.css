@@ -1,0 +1,14 @@
+footer {
+    background-color: #015697;
+}
+
+.footer-wrapper {
+    display: inline-grid;
+    grid-template-columns: 50px 200px 200px 200px;
+    grid-gap: 5px;
+    align-items: center;
+}
+
+.small_logo {
+    max-width: 40px;
+}
